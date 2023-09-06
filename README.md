@@ -2,7 +2,7 @@
 
 Happy Shoots is a user-friendly Android application designed to streamline the process of booking photography sessions. In a world dominated by smartphones, we recognized the need to replace outdated methods of booking photography services with a more efficient and convenient solution. Our app offers users a fast-paced, all-in-one platform to connect with photographers, schedule appointments, view photographers' previous work, and provide valuable feedback on their experience.
 
-[Watch the Video Demonstration](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+[Watch the Video Demonstration](https://youtu.be/VMoRubN2pks)
 
 ## Problem Statement
 
